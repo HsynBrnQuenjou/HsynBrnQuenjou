@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baran Hüseyin</h1>
-<h3 align="center">A passionate web and mobile developer from Turkiye</h3>
+<h3 align="center">A web and mobile developer from Turkiye</h3>
 
 - 🔭 I’m currently working on **Flutter project**
 
