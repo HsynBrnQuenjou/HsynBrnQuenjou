@@ -5,13 +5,6 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/baran-huseyin-kencu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/baran-      huseyin-kencu/" height="30" width="40" /></a>
-  <a href="http://instagram.com/HsynBrnQuenjou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://instagram.com/HsynBrnQuenjou" height="30"         width="40" /></a>
-  <a href="https://www.youtube.com/@baranhuseyin/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@baranhuseyin/videos"     height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages, Frameworks, and Tools</h3>
 
 <h4 align="left">💻 Programming Languages</h4>
